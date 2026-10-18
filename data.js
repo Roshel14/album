@@ -6,7 +6,7 @@ window.MONEDAS = [
     "name": "Tumi de Oro",
     "region": "Lambayeque",
     "year": "2010",
-    "image": "/imagen/btn-01-tumi-de-oro.jpg"
+    "image": "imagen/btn-01-tumi-de-oro.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@ window.MONEDAS = [
     "name": "Sarcófagos de Karajía",
     "region": "Amazonas",
     "year": "2010",
-    "image": "/imagen/btn-02-sarcofagos-de-karajia.jpg"
+    "image": "imagen/btn-02-sarcofagos-de-karajia.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@ window.MONEDAS = [
     "name": "Estela de Raimondi",
     "region": "Áncash",
     "year": "2010",
-    "image": "/imagen/btn-03-estela-de-raimondi.jpg"
+    "image": "imagen/btn-03-estela-de-raimondi.jpg"
   },
   {
     "id": 4,
@@ -60,7 +60,7 @@ window.MONEDAS = [
     "name": "Gran Pajatén",
     "region": "San Martín",
     "year": "2011",
-    "image": "/imagen/btn-07-gran-pajaten.jpg"
+    "image": "imagen/btn-07-gran-pajaten.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@ window.MONEDAS = [
     "name": "Piedra de Saywite",
     "region": "Apurímac",
     "year": "2012",
-    "image": "/imagen/btn-08-piedra-de-saywite.jpg"
+    "image": "imagen/btn-08-piedra-de-saywite.jpg"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@ window.MONEDAS = [
     "name": "Templo del Sol – Vilcashuamán",
     "region": "Ayacucho",
     "year": "2012",
-    "image": "/imagen/btn-10-templo-del-sol-vilcashuaman.jpg"
+    "image": "imagen/btn-10-templo-del-sol-vilcashuaman.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@ window.MONEDAS = [
     "name": "Kuntur Wasi",
     "region": "Cajamarca",
     "year": "2012",
-    "image": "/imagen/btn-11-kuntur-wasi.jpg"
+    "image": "imagen/btn-11-kuntur-wasi.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@ window.MONEDAS = [
     "name": "Templo Inca – Huaytará",
     "region": "Huancavelica",
     "year": "2013",
-    "image": "/imagen/btn-12-templo-inca-huaytara.jpg"
+    "image": "imagen/btn-12-templo-inca-huaytara.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@ window.MONEDAS = [
     "name": "Templo de Kotosh",
     "region": "Huánuco",
     "year": "2013",
-    "image": "/imagen/btn-13-templo-de-kotosh.jpg"
+    "image": "imagen/btn-13-templo-de-kotosh.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@ window.MONEDAS = [
     "name": "Arte Textil Paracas",
     "region": "Ica",
     "year": "2013",
-    "image": "/imagen/btn-14-arte-textil-paracas.jpg"
+    "image": "imagen/btn-14-arte-textil-paracas.jpg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@ window.MONEDAS = [
     "name": "Tunanmarca",
     "region": "Junín",
     "year": "2013",
-    "image": "/imagen/btn-15-tunanmarca.jpg"
+    "image": "imagen/btn-15-tunanmarca.jpg"
   },
   {
     "id": 16,
@@ -177,7 +177,7 @@ window.MONEDAS = [
     "name": "Petroglifos de Pusharo",
     "region": "Madre de Dios",
     "year": "2015",
-    "image": "/imagen/btn-20-petroglifos-de-pusharo.jpg"
+    "image": "imagen/btn-20-petroglifos-de-pusharo.jpg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@ window.MONEDAS = [
     "name": "Arquitectura Moqueguana",
     "region": "Moquegua",
     "year": "2015",
-    "image": "/imagen/btn-21-arquitectura-moqueguana.jpg"
+    "image": "imagen/btn-21-arquitectura-moqueguana.jpg"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@ window.MONEDAS = [
     "name": "Huarautambo",
     "region": "Pasco",
     "year": "2015",
-    "image": "/imagen/btn-22-huarautambo.jpg"
+    "image": "imagen/btn-22-huarautambo.jpg"
   },
   {
     "id": 23,
@@ -213,7 +213,7 @@ window.MONEDAS = [
     "name": "Cabeza de Vaca",
     "region": "Tumbes",
     "year": "2016",
-    "image": "/imagen/btn-24-cabeza-de-vaca.jpg"
+    "image": "imagen/btn-24-cabeza-de-vaca.jpg"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@ window.MONEDAS = [
     "name": "Cerámica Shipibo-Konibo",
     "region": "Ucayali",
     "year": "2016",
-    "image": "/imagen/btn-25-shipibo-konibo.jpg"
+    "image": "imagen/btn-25-shipibo-konibo.jpg"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@ window.MONEDAS = [
     "name": "Arco Parabólico de Tacna",
     "region": "Tacna",
     "year": "2016",
-    "image": "/imagen/btn-26-arco-parabolico.jpg"
+    "image": "imagen/btn-26-arco-parabolico.jpg"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@ window.MONEDAS = [
     "name": "La Quinua",
     "region": "Perú",
     "year": "2013",
-    "image": "/imagen/rnp-quinua.jpg"
+    "image": "imagen/rnp-quinua.jpg"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@ window.MONEDAS = [
     "name": "La Anchoveta",
     "region": "Perú",
     "year": "2013",
-    "image": "/imagen/rnp-anchoveta.jpg"
+    "image": "imagen/rnp-anchoveta.jpg"
   },
   {
     "id": 29,
@@ -267,7 +267,7 @@ window.MONEDAS = [
     "name": "Oso Andino de Anteojos",
     "region": "Perú",
     "year": "2017",
-    "image": "/imagen/btn-01-oso-andino-de-anteojos.jpg"
+    "image": "imagen/btn-01-oso-andino-de-anteojos.jpg"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@ window.MONEDAS = [
     "name": "Cocodrilo de Tumbes",
     "region": "Tumbes",
     "year": "2017",
-    "image": "/imagen/btn-02-cocodrilo-de-tumbes.jpg"
+    "image": "imagen/btn-02-cocodrilo-de-tumbes.jpg"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@ window.MONEDAS = [
     "name": "Cóndor Andino",
     "region": "Andes",
     "year": "2018",
-    "image": "/imagen/btn-03-condor-andino.jpg"
+    "image": "imagen/btn-03-condor-andino.jpg"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@ window.MONEDAS = [
     "name": "Tapir Andino",
     "region": "Andes",
     "year": "2018",
-    "image": "/imagen/btn-04-tapir-andino.jpg"
+    "image": "imagen/btn-04-tapir-andino.jpg"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@ window.MONEDAS = [
     "name": "Pava Aliblanca",
     "region": "Perú",
     "year": "2018",
-    "image": "/imagen/btn-05-pava-aliblanca.jpg"
+    "image": "imagen/btn-05-pava-aliblanca.jpg"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@ window.MONEDAS = [
     "name": "Jaguar",
     "region": "Amazonía",
     "year": "2018",
-    "image": "/imagen/btn-06-jaguar.jpg"
+    "image": "imagen/btn-06-jaguar.jpg"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@ window.MONEDAS = [
     "name": "Suri",
     "region": "Andes",
     "year": "2018",
-    "image": "/imagen/btn-07-suri.jpg"
+    "image": "imagen/btn-07-suri.jpg"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@ window.MONEDAS = [
     "name": "Mono Choro Cola Amarilla",
     "region": "Amazonía",
     "year": "2019",
-    "image": "/imagen/btn-08-mono-choro.jpg"
+    "image": "imagen/btn-08-mono-choro.jpg"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@ window.MONEDAS = [
     "name": "Gato Andino",
     "region": "Andes",
     "year": "2019",
-    "image": "/imagen/btn-09-gato-andino.jpg"
+    "image": "imagen/btn-09-gato-andino.jpg"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@ window.MONEDAS = [
     "name": "Rana Gigante del Titicaca",
     "region": "Puno",
     "year": "2019",
-    "image": "/imagen/btn-10-rana-gigante.jpg"
+    "image": "imagen/btn-10-rana-gigante.jpg"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@ window.MONEDAS = [
     "name": "Brígida Silva de Ochoa",
     "region": "Perú",
     "year": "2020",
-    "image": "/imagen/brigida.jpg"
+    "image": "imagen/brigida.jpg"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@ window.MONEDAS = [
     "name": "Heroínas Toledo",
     "region": "Perú",
     "year": "2020",
-    "image": "/imagen/hermnatoledo.jpg"
+    "image": "imagen/hermnatoledo.jpg"
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@ window.MONEDAS = [
     "name": "María Parado de Bellido",
     "region": "Ayacucho",
     "year": "2020",
-    "image": "/imagen/maria.jpg"
+    "image": "imagen/maria.jpg"
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@ window.MONEDAS = [
     "name": "Juan Pablo Viscardo y Guzmán",
     "region": "Perú",
     "year": "2020",
-    "image": "/imagen/bicentenario-jpvg.jpg"
+    "image": "imagen/bicentenario-jpvg.jpg"
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@ window.MONEDAS = [
     "name": "Hipólito Unanue y Pavón",
     "region": "Perú",
     "year": "2021",
-    "image": "/imagen/bicentenario-huyp.jpg"
+    "image": "imagen/bicentenario-huyp.jpg"
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@ window.MONEDAS = [
     "name": "Toribio Rodríguez de Mendoza",
     "region": "Perú",
     "year": "2021",
-    "image": "/imagen/bicentenario-trdm.jpg"
+    "image": "imagen/bicentenario-trdm.jpg"
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@ window.MONEDAS = [
     "name": "Manuel Lorenzo de Vidaurre",
     "region": "Perú",
     "year": "2022",
-    "image": "/imagen/bicentenario-mldv.jpg"
+    "image": "imagen/bicentenario-mldv.jpg"
   },
   {
     "id": 47,
@@ -429,7 +429,7 @@ window.MONEDAS = [
     "name": "José Faustino Sánchez Carrión",
     "region": "Perú",
     "year": "2022",
-    "image": "/imagen/bicentenario-jfsc.jpg"
+    "image": "imagen/bicentenario-jfsc.jpg"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@ window.MONEDAS = [
     "name": "Francisco Xavier de Luna Pizarro",
     "region": "Perú",
     "year": "2023",
-    "image": "/imagen/bicentenario--fxlp.jpg"
+    "image": "imagen/bicentenario--fxlp.jpg"
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@ window.MONEDAS = [
     "name": "José de La Mar y Cortázar",
     "region": "Perú",
     "year": "2023",
-    "image": "/imagen/bicentenario-jmyc.jpg"
+    "image": "imagen/bicentenario-jmyc.jpg"
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@ window.MONEDAS = [
     "name": "José Manuel Valdés",
     "region": "Perú",
     "year": "2023",
-    "image": "/imagen/bicentenario-jmv.jpg"
+    "image": "imagen/bicentenario-jmv.jpg"
   },
   {
     "id": 52,
