@@ -33,7 +33,7 @@ window.MONEDAS = [
     "name": "Chullpas de Sillustani",
     "region": "Puno",
     "year": "2011",
-    "image": "/imagen/btn-04-chullpas-de-sullastani.jpg"
+    "image": "imagen/btn-04-chullpas-de-sullastani.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@ window.MONEDAS = [
     "name": "Monasterio de Santa Catalina",
     "region": "Arequipa",
     "year": "2011",
-    "image": "/imagen/btn-05-monasterio-de-santa-catalina.jpg "
+    "image": "imagen/btn-05-monasterio-de-santa-catalina.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@ window.MONEDAS = [
     "name": "Machu Picchu",
     "region": "Cusco",
     "year": "2011",
-    "image": "/imagen/btn-06-machu-picchu.jpg"
+    "image": "imagen/btn-06-machu-picchu.jpg"
   },
   {
     "id": 7,
@@ -78,7 +78,7 @@ window.MONEDAS = [
     "name": "Fortaleza del Real Felipe",
     "region": "Callao",
     "year": "2012",
-    "image": "/imagen/btn-09-fortaleza-del-real-felipe.jpg"
+    "image": "imagen/btn-09-fortaleza-del-real-felipe.jpg"
   },
   {
     "id": 10,
@@ -141,7 +141,7 @@ window.MONEDAS = [
     "name": "Ciudad Sagrada de Caral",
     "region": "Lima",
     "year": "2014",
-    "image": "/imagen/btn-16-ciudad-sagrada-de-caral.jpg"
+    "image": "imagen/btn-16-ciudad-sagrada-de-caral.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@ window.MONEDAS = [
     "name": "Huaca de la Luna",
     "region": "La Libertad",
     "year": "2014",
-    "image": "/imagen/btn-17-huaca-de-la-luna.jpg"
+    "image": "imagen/btn-17-huaca-de-la-luna.jpg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@ window.MONEDAS = [
     "name": "Antiguo Hotel Palace",
     "region": "Loreto",
     "year": "2014",
-    "image": "/imagen/btn-18-antiguo-hotel-palace.jpg"
+    "image": "imagen/btn-18-antiguo-hotel-palace.jpg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@ window.MONEDAS = [
     "name": "Catedral de Lima",
     "region": "Lima",
     "year": "2014",
-    "image": "/imagen/btn-19-catedral-de-lima.jpg"
+    "image": "imagen/btn-19-catedral-de-lima.jpg"
   },
   {
     "id": 20,
@@ -204,7 +204,7 @@ window.MONEDAS = [
     "name": "Cerámica Vicús",
     "region": "Piura",
     "year": "2015",
-    "image": "/imagen/btn-23-ceramica-vicus.jpg"
+    "image": "imagen/btn-23-ceramica-vicus.jpg"
   },
   {
     "id": 24,
@@ -258,7 +258,7 @@ window.MONEDAS = [
     "name": "El Cacao",
     "region": "Perú",
     "year": "2013",
-    "image": "/imagen/rnp-cacao.jpg"
+    "image": "imagen/rnp-cacao.jpg"
   },
   {
     "id": 30,
@@ -420,7 +420,7 @@ window.MONEDAS = [
     "name": "José Baquíjano y Carrillo",
     "region": "Perú",
     "year": "2022",
-    "image": "/imagen/bicentenario-jbyc.jpg"
+    "image": "imagen/bicentenario-jbyc.jpg"
   },
   {
     "id": 48,
@@ -465,7 +465,7 @@ window.MONEDAS = [
     "name": "Período Formativo",
     "region": "Perú",
     "year": "2024",
-    "image": "/imagen/btn-01-periodo-formativo.jpg"
+    "image": "imagen/btn-01-periodo-formativo.jpg"
   },
   {
     "id": 53,
@@ -474,7 +474,7 @@ window.MONEDAS = [
     "name": "Cultura Mochica",
     "region": "Perú",
     "year": "2024",
-    "image": "/imagen/btn-02-cultura-mochica.jpg"
+    "image": "imagen/btn-02-cultura-mochica.jpg"
   },
   {
     "id": 54,
@@ -483,7 +483,7 @@ window.MONEDAS = [
     "name": "Cultura Vicús",
     "region": "Perú",
     "year": "2025",
-    "image": "/imagen/btn-03-cultura-vicus.jpg"
+    "image": "imagen/btn-03-cultura-vicus.jpg"
   },
   {
     "id": 55,
@@ -492,7 +492,7 @@ window.MONEDAS = [
     "name": "Cultura Nasca",
     "region": "Perú",
     "year": "2025",
-    "image": "/imagen/btn-04-cultura-nasca.jpg"
+    "image": "imagen/btn-04-cultura-nasca.jpg"
   },
   {
     "id": 56,
@@ -501,6 +501,6 @@ window.MONEDAS = [
     "name": "Cultura Recuay",
     "region": "Perú",
     "year": "2025",
-    "image": "/imagen/btn-05-cultura-recuay.jpg"
+    "image": "imagen/btn-05-cultura-recuay.jpg"
   }
 ];
